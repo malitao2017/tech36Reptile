@@ -1,0 +1,13 @@
+
+
+爬虫
+整体目标未完成！只有第一个入门案例完成了实现
+
+reptile1 入门级别的完成
+http://www.jb51.net/article/57193.htm
+
+reptile2 包的引用报错
+http://download.csdn.net/download/gjfrollsroice/9624301
+
+reptile3 缺少一个类
+http://blog.csdn.net/sang1203/article/details/51286221
